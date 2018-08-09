@@ -1,8 +1,6 @@
 # Optimization-with-Genetic-Algorithms
 Implementation of  a genetic algorithm (GA) for  the clustering of the nodes of a graph. Done for the Neural and Evolutionary Computation subject.
 
-### Exercise statement
-
 #### Objective
 Implementation of a genetic algorithm(GA) for the clustering of the nodes of a graph, by means of the optimization of modularity.
 
@@ -33,3 +31,20 @@ Try different variants of the genetic algorithm and of their corresponding param
 This is the “real” partition of the Zachary Karate Club network, as a reference for a good partition in two communities (not necessarily the one with largest modularity).
 
 ![Example](https://raw.githubusercontent.com/franfj/Optimization-with-Genetic-Algorithms/master/example.png)
+
+#### License
+
+Copyright 2018 Francisco Javier Rodrigo Ginés
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
